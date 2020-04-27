@@ -1,3 +1,3 @@
 # Project-Analyzing-CIA-Factbook-Data-Using-SQL
 
-Project aims to analyse dataset using SQL in notebook
+Aim is to explore data set and solve some problem statements using SQL in jupyter notebook
